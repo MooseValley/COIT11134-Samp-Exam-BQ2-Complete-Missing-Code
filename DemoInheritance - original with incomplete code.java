@@ -1,18 +1,3 @@
-# COIT11134 - Sample Exam - BQ2 - Complete Missing Code
-
-## Question 2	5 MARKS
-
-The following Java code demonstrates the concept of inheritance, where two subclasses SalaryEmployee and HourlyEmployee inherit the properties and methods from the superclass Employee.
-
-Your tasks are:
-
-• Write the missing implementation codes for constructors of SalaryEmployee and
-HourlyEmployee classes.
-
-• What would have been the output produced by the program
-DemoInheritance if it is executed correctly?
-
-```
 import java.text.DecimalFormat;
 
 class Employee
@@ -117,6 +102,3 @@ public class DemoInheritance
       System.out.println(hEmp); System.out.println(sEmp);
    }
 }
-```
-
-

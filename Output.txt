@@ -1,0 +1,11 @@
+
+Name:	Steve Howard
+SS#:	896-54-3217
+Status:	Hourly
+Rate:$10.50
+Hours:	40.00
+
+Name:	Moira Dunn
+SS#:	456-14-3787
+Status:	Salary
+Salary:	$800.00
