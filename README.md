@@ -1,6 +1,6 @@
 # COIT11134 - Sample Exam - BQ2 - Complete Missing Code
 
-## Question 2	5 MARKS
+## Question 2	(5 MARKS)
 
 The following Java code demonstrates the concept of inheritance, where two subclasses SalaryEmployee and HourlyEmployee inherit the properties and methods from the superclass Employee.
 
